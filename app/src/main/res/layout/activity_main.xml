@@ -36,7 +36,7 @@
         android:layout_marginStart="11dp"
         android:layout_marginLeft="11dp"
         android:layout_marginTop="88dp"
-        android:onClick="alterarTexto"
+        android:onClick="sorteio"
         android:text="Cadastrar"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
