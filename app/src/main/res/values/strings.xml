@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My first application</string>
+    <string name="Menu_mensagem">mensagem</string>
+    <string name="Menu_volume">volume</string>
+    <string name="Menu_avaliacoes">avaliacoes</string>
+    <string name="Menu_copiarConteudo">copiar</string>
 </resources>
