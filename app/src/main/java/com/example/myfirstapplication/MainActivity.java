@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         TextView texto = findViewById(R.id.textView5);
         texto.setText("Funcionou !!!!!");
     }
-
+    /*
     public void sorteio (View view) {
 
         TextView input = findViewById(R.id.editTextTextPersonName3);
@@ -33,5 +33,5 @@ public class MainActivity extends AppCompatActivity {
             texto.setText("O número sorteado foi:" + x);
 
         }
-    //}
+    //} */
 }
